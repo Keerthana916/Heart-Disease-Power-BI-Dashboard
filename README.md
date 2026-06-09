@@ -16,7 +16,7 @@ Interactive Power BI dashboard built to analyze heart disease patient data.
 - DAX
 
 ## Dashboard Preview
-![Dashboard](https://github.com/Keerthana916/Heart-Disease-Power-BI-Dashboard/blob/main/Screenshot%202026-06-07%20121845.png)
+![Dashboard](https://github.com/Keerthana916/Heart-Disease-Power-BI-Dashboard/blob/main/Heart-Disease-Dashboard-Photo.png)
 
 ## Insights
 - Majority of patients are male
